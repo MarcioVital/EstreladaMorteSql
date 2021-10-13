@@ -1,7 +1,7 @@
 # EstreladaMorteSql
 Projeto realizado em SQL Sever
 
-Apredendo mais um pouquinho!!!
+Apredendo mais um pouquinho!
 
 
 USE [EstrelaDaMorte]
